@@ -6,7 +6,7 @@ Proiect de vedere artificiala prin care se redimensioneaza imagini, nedistorsion
 
 Fisierul principal de rulare: __proiect/cod/ruleazaTema.m__. In acest fisier setam parametrii (imaginea ce trebuie modificata, algoritmul de modificare, dimensiunile ce vor fi modificate).Exista mai multe optiuni de redimensionare a imaginii: 
 
-# Fisiere
+# Fisiere si Rezultate
 
 Enuntul amplu al temei se afla in fisierul __tema2.pdf__.
 
