@@ -22,3 +22,7 @@ Enuntul amplu al temei se afla in fisierul __tema2.pdf__.
 Tema a fost implementata urmand articolul stiintific _Seam Carving for Content-Aware Image Resizing_, autorii Shai Avidan si Ariel Shamir (__articol_engleza.pdf__).
 
 Rezultate obtinute in urma rularii pot fi inspectate in fisierul __rezultate.pdf__ sau folder-ul __Imagini__.
+
+# To Do
+
+- De modificat path-ul imaginilor date ca parametru (sunt citite de pe localhost)
